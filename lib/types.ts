@@ -27,6 +27,7 @@ export interface Member {
   yearJoined?: number;
   researchDomains: string[]; // e.g. ["In-Memory Computing", "RISC-V"]
   links: PersonLinks;
+  funFact?: string;
 }
 
 /** The faculty / lab head */

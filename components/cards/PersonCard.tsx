@@ -139,23 +139,45 @@ export default function PersonCard({
       }}
     >
       <div
+        className={m.funFact ? "flip-card" : undefined}
         style={{
           position: "relative",
           width: "100%",
           aspectRatio: "1",
           borderRadius: "4px",
           overflow: "hidden",
-          background: "var(--substrate-hi)",
         }}
       >
-        <Image
-          src={imgSrc}
-          alt={m.name}
-          fill
-          style={{ objectFit: "cover", objectPosition: m.photoPosition }}
-          sizes="(max-width: 640px) 50vw, 260px"
-          onError={() => setImgSrc("/images/people/placeholder.svg")}
-        />
+        <div
+          className={m.funFact ? "flip-card-inner" : undefined}
+          style={{ background: "var(--substrate-hi)" }}
+        >
+          <div className={m.funFact ? "flip-card-front" : undefined}>
+            <Image
+              src={imgSrc}
+              alt={m.name}
+              fill
+              style={{ objectFit: "cover", objectPosition: m.photoPosition }}
+              sizes="(max-width: 640px) 50vw, 260px"
+              onError={() => setImgSrc("/images/people/placeholder.svg")}
+            />
+          </div>
+          {m.funFact && (
+            <div className="flip-card-back">
+              <p
+                className="type-mono"
+                style={{
+                  fontSize: "0.75rem",
+                  lineHeight: 1.6,
+                  color: "var(--text-secondary)",
+                  margin: 0,
+                }}
+              >
+                {m.funFact}
+              </p>
+            </div>
+          )}
+        </div>
       </div>
 
       <div
