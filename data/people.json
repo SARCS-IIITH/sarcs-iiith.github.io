@@ -9,7 +9,14 @@
       "degree": "Faculty",
       "designation": "Assistant Professor, Principal Investigator",
       "bio": "Prof. Priyesh Shukla leads the SARCS Laboratory at IIIT Hyderabad. His research interests span computer architecture, in-memory computing, hardware accelerators, quantum computing and more. He received his PhD from University of Illinois Chicago and has published in top venues like Nature Communications, TCAS-1, DATE, ICASSP, TVLSI, ISCAS and others.",
-      "researchDomains": ["In-Memory Computing", "Hardware Accelerators", "AI Systems", "Quantum Computing", "Photonics", "RISC-V"],
+      "researchDomains": [
+        "In-Memory Computing",
+        "Hardware Accelerators",
+        "AI Systems",
+        "Quantum Computing",
+        "Photonic Computing",
+        "RISC-V"
+      ],
       "links": {
         "email": "priyesh.shukla@iiit.ac.in",
         "linkedin": "https://www.linkedin.com/in/priyesh-shukla-97b278218/",
@@ -28,7 +35,11 @@
       "degree": "PhD",
       "program": "PhD",
       "yearJoined": 2025,
-      "researchDomains": ["LLM Accelerators", "AI for Healthcare", "AI Systems"],
+      "researchDomains": [
+        "LLM Accelerators",
+        "AI for Healthcare",
+        "AI Systems"
+      ],
       "links": {
         "email": "sirisha.a@research.iiit.ac.in"
       }
@@ -40,12 +51,16 @@
       "photoPosition": "50% 25%",
       "role": "MS Student",
       "degree": "MS",
-      "program": "MS",
+      "program": "ECE",
       "yearJoined": 2025,
-      "researchDomains": ["Quantum Computing"],
+      "researchDomains": [
+        "Quantum Computing",
+        "Quantum Algorithms"
+      ],
       "links": {
         "email": "koya.jayadeep@research.iiit.ac.in",
-        "linkedin": "https://www.linkedin.com/in/jayadeep-k-0b073822a/"
+        "linkedin": "https://www.linkedin.com/in/jayadeep-k-0b073822a/",
+        "github": "https://github.com/Jayadeep-4"
       }
     },
     {
@@ -57,7 +72,9 @@
       "degree": "MS",
       "program": "MS",
       "yearJoined": 2025,
-      "researchDomains": ["Quantum Computing"],
+      "researchDomains": [
+        "Quantum Computing"
+      ],
       "links": {
         "email": "lokendra.kanawat@research.iiit.ac.in",
         "linkedin": "https://www.linkedin.com/in/lokendra-singh-kanawat-a08339246/"
@@ -71,8 +88,11 @@
       "role": "Undergraduate Researcher",
       "degree": "BTech/DD",
       "program": "ECD",
-      "yearJoined": 2025,
-      "researchDomains": ["RISC-V", "Computer Architecture"],
+      "yearJoined": 2023,
+      "researchDomains": [
+        "RISC-V",
+        "Hardware Accelerators"
+      ],
       "links": {
         "email": "vedant.pahariya@research.iiit.ac.in",
         "linkedin": "https://www.linkedin.com/in/vedant-pahariya/",
@@ -88,7 +108,10 @@
       "degree": "BTech/DD",
       "program": "ECD",
       "yearJoined": 2025,
-      "researchDomains": ["RISC-V", "Compilers"],
+      "researchDomains": [
+        "RISC-V",
+        "Compilers"
+      ],
       "links": {
         "email": "priyanshi.jain@research.iiit.ac.in",
         "linkedin": "https://www.linkedin.com/in/priyanshi-jain-hf/",
@@ -103,13 +126,18 @@
       "role": "Undergraduate Researcher",
       "degree": "BTech/DD",
       "program": "ECE",
-      "yearJoined": 2025,
-      "researchDomains": ["In-Memory Computing", "Computer Architecture"],
+      "yearJoined": 2023,
+      "researchDomains": [
+        "Physical AI",
+        "Hardware for AI",
+        "RISC-V"
+      ],
       "links": {
         "email": "siddarth.g@students.iiit.ac.in",
-        "github": "https://github.com/iamsid44",
-        "linkedin": "https://www.linkedin.com/in/siddarth-gottumukkula-741b23285/"
-      }
+        "linkedin": "https://www.linkedin.com/in/siddarth-gottumukkula-741b23285/",
+        "github": "https://github.com/IamSid44"
+      },
+      "funFact": "I\u2019m a big F1 enthusiast + big tech and current events nerd"
     },
     {
       "id": "ug-2",
@@ -119,12 +147,542 @@
       "role": "Undergraduate Researcher",
       "degree": "BTech/DD",
       "program": "ECE",
-      "yearJoined": 2025,
-      "researchDomains": ["In-Memory Computing", "Hardware Accelerators"],
+      "yearJoined": 2023,
+      "researchDomains": [
+        "Edge AI",
+        "Hardware for AI",
+        "Agentic AI"
+      ],
       "links": {
         "email": "m.samartha@students.iiit.ac.in",
-        "github": "https://github.com/samarthamp",
-        "linkedin": "https://www.linkedin.com/in/samartha-mp/"
+        "linkedin": "https://www.linkedin.com/in/samartha-mp/",
+        "github": "https://github.com/samarthamp"
+      },
+      "funFact": "I love brainrot :)"
+    },
+    {
+      "id": "ug-5",
+      "name": "Rithik Reddy Palla",
+      "photo": "/images/people/Rithik_Reddy_Palla.jpg",
+      "photoPosition": "50% 50%",
+      "role": "Undergraduate Researcher",
+      "degree": "BTech/DD",
+      "program": "ECE",
+      "yearJoined": 2024,
+      "researchDomains": [
+        "Hardware Accelerators",
+        "Edge AI"
+      ],
+      "links": {
+        "email": "rithik.palla@students.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/in/palla-rithik-reddy-63784714b/",
+        "github": "https://github.com/rithikreddypalla"
+      }
+    },
+    {
+      "id": "ug-6",
+      "name": "Chanda Akshay Kumar",
+      "photo": "/images/people/Chanda_Akshay_Kumar.png",
+      "photoPosition": "50% 50%",
+      "role": "Undergraduate Researcher",
+      "degree": "BTech/DD",
+      "program": "ECE",
+      "yearJoined": 2024,
+      "researchDomains": [
+        "Quantization"
+      ],
+      "links": {
+        "email": "chanda.kumar@students.iiit.ac.in",
+        "linkedin": "https://linkedin.com/in/akshaychanda/",
+        "github": "https://github.com/akshaybunny18"
+      },
+      "funFact": "I remember random little details that other people forget."
+    },
+    {
+      "id": "ug-7",
+      "name": "Mukund Hebbar",
+      "photo": "/images/people/Mukund_Hebbar.jpg",
+      "photoPosition": "50% 50%",
+      "role": "Undergraduate Researcher",
+      "degree": "BTech/DD",
+      "program": "CSE",
+      "yearJoined": 2024,
+      "researchDomains": [
+        "LLM Post-Training",
+        "Inference Engineering"
+      ],
+      "links": {
+        "email": "mukund.hebbar@students.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/in/mukund-hebbar-4064a231b/",
+        "github": "https://github.com/MukundHebbar"
+      },
+      "funFact": "I like ice cream."
+    },
+    {
+      "id": "ms-3",
+      "name": "Joshi P",
+      "photo": "/images/people/Joshi_P.jpg",
+      "photoPosition": "50% 50%",
+      "role": "MS Student",
+      "degree": "MS",
+      "program": "CSE",
+      "yearJoined": 2026,
+      "researchDomains": [
+        "ML Compilers"
+      ],
+      "links": {
+        "email": "joshi.penta@research.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/in/joshi-p-0557b4223"
+      },
+      "funFact": "Some ReLU units are all I need."
+    },
+    {
+      "id": "ug-8",
+      "name": "Ahamed Nishan A",
+      "photo": "/images/people/Ahamed_Nishan_A.jpg",
+      "photoPosition": "50% 50%",
+      "role": "Undergraduate Researcher",
+      "degree": "BTech/DD",
+      "program": "ECE",
+      "yearJoined": 2024,
+      "researchDomains": [
+        "Compression Accelerators",
+        "Quantization"
+      ],
+      "links": {
+        "email": "ahamed.adikkool@research.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/in/ahamed-nishan-adikkool-123682286?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+        "github": "https://github.com/ahamed-nishan04"
+      }
+    },
+    {
+      "id": "ug-9",
+      "name": "Nikhil Venkat Atkuru",
+      "photo": "/images/people/Nikhil_Venkat_Atkuru.jpg",
+      "photoPosition": "50% 50%",
+      "role": "Undergraduate Researcher",
+      "degree": "BTech/DD",
+      "program": "ECE",
+      "yearJoined": 2024,
+      "researchDomains": [
+        "In-Memory Computing"
+      ],
+      "links": {
+        "email": "nikhil.atkuru@students.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/in/nikhil-atkuru"
+      }
+    },
+    {
+      "id": "ug-10",
+      "name": "Sashwat Balaji",
+      "photo": "/images/people/Sashwat_Balaji.jpg",
+      "photoPosition": "50% 50%",
+      "role": "Undergraduate Researcher",
+      "degree": "BTech/DD",
+      "program": "ECE",
+      "yearJoined": 2024,
+      "researchDomains": [
+        "Computer Architecture",
+        "Hardware Accelerators"
+      ],
+      "links": {
+        "email": "sashwat.balaji@students.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/in/sashwat-balaji-17881b346/",
+        "github": "https://github.com/sashu2006"
+      },
+      "funFact": "I\u2019m always looking for the next song/movie/book that will completely consume me for a week."
+    },
+    {
+      "id": "ug-11",
+      "name": "Nikhilesh Nallavelli",
+      "photo": "/images/people/Nikhilesh_Nallavelli.jpg",
+      "photoPosition": "50% 50%",
+      "role": "Undergraduate Researcher",
+      "degree": "BTech/DD",
+      "program": "ECE",
+      "yearJoined": 2024,
+      "researchDomains": [
+        "Memory Performance Characterizations",
+        "In-Memory Computing"
+      ],
+      "links": {
+        "email": "nikhilesh.nallavelli@students.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/in/nikhilesh-nallavelli-b9072a313/",
+        "github": "https://github.com/NikhileshNallavelli"
+      }
+    },
+    {
+      "id": "ug-12",
+      "name": "Abhinav VK",
+      "photo": "/images/people/Abhinav_VK.jpg",
+      "photoPosition": "50% 50%",
+      "role": "Undergraduate Researcher",
+      "degree": "BTech/DD",
+      "program": "ECE",
+      "yearJoined": 2024,
+      "researchDomains": [
+        "ML Compilers"
+      ],
+      "links": {
+        "email": "abhinav.kota@students.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/in/abhinavkota23"
+      }
+    },
+    {
+      "id": "ug-13",
+      "name": "Saikiran S",
+      "photo": "/images/people/Saikiran_S.jpg",
+      "photoPosition": "50% 50%",
+      "role": "Undergraduate Researcher",
+      "degree": "BTech/DD",
+      "program": "ECE",
+      "yearJoined": 2024,
+      "researchDomains": [
+        "Photonic Computing"
+      ],
+      "links": {
+        "email": "saikiran.s@research.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/in/saikiran-s-825360314/",
+        "github": "https://github.com/Flipin59"
+      },
+      "funFact": "bisleri iykyk :)"
+    },
+    {
+      "id": "ug-14",
+      "name": "Ashirbad Sahu",
+      "photo": "/images/people/Ashirbad_Sahu.png",
+      "photoPosition": "50% 50%",
+      "role": "Undergraduate Researcher",
+      "degree": "BTech/DD",
+      "program": "ECE",
+      "yearJoined": 2024,
+      "researchDomains": [
+        "ML systems",
+        "Inference Engineering",
+        "Speech Language Models",
+        "Edge AI"
+      ],
+      "links": {
+        "email": "ashirbad.sahu@research.iiit.ac.in",
+        "linkedin": "https://linkedin.com/in/ashirbadsahu-in",
+        "github": "https://github.com/ashirbadsahu"
+      },
+      "funFact": "i know ball."
+    },
+    {
+      "id": "ug-15",
+      "name": "Aryama Vinay Murthy",
+      "photo": "/images/people/Aryama_Vinay_Murthy.jpg",
+      "photoPosition": "50% 50%",
+      "role": "Undergraduate Researcher",
+      "degree": "BTech/DD",
+      "program": "CSE",
+      "yearJoined": 2024,
+      "researchDomains": [
+        "LLM Post-Training",
+        "Knowledge Distillation techniques",
+        "Test-time-scaling",
+        "Reinforcement Learning for Reasoning in SLMs",
+        "Inference Engineering",
+        "Edge AI",
+        "Agentic AI"
+      ],
+      "links": {
+        "email": "aryama.murthy@students.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/in/aryama-murthy-b6188722b/",
+        "github": "https://github.com/AryamaVMurthy"
+      },
+      "funFact": "I love playing both tennis and table tennis in my free time"
+    },
+    {
+      "id": "ug-16",
+      "name": "Nitin",
+      "photo": "/images/people/Nitin.jpg",
+      "photoPosition": "50% 50%",
+      "role": "Undergraduate Researcher",
+      "degree": "BTech/DD",
+      "program": "ECE",
+      "yearJoined": 2024,
+      "researchDomains": [
+        "Quantum Computing",
+        "Hardware Accelerators"
+      ],
+      "links": {
+        "email": "nitin.vishnubhotla@research.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/in/nitin-kalyan-9bb2b3320",
+        "github": "https://github.com/NitinGamerX"
+      },
+      "funFact": "I am a Math & Computer Enthusiast who loves Cricket, Badminton, Video Games and Food"
+    },
+    {
+      "id": "ug-17",
+      "name": "Saharsh Kallu",
+      "photo": "/images/people/Saharsh_Kallu.jpg",
+      "photoPosition": "50% 50%",
+      "role": "Undergraduate Researcher",
+      "degree": "BTech/DD",
+      "program": "CSE",
+      "yearJoined": 2024,
+      "researchDomains": [
+        "Machine Learning",
+        "Edge AI",
+        "Efficient AI"
+      ],
+      "links": {
+        "email": "saharsh.kallu@students.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav",
+        "github": "https://github.com/Saha264"
+      },
+      "funFact": "Huge sneaker head and also big go karting guy"
+    },
+    {
+      "id": "ug-18",
+      "name": "Sashangh DR",
+      "photo": "/images/people/Sashangh_DR.webp",
+      "photoPosition": "50% 50%",
+      "role": "Undergraduate Researcher",
+      "degree": "BTech/DD",
+      "program": "CSE",
+      "yearJoined": 2024,
+      "researchDomains": [
+        "Edge AI",
+        "Quantization"
+      ],
+      "links": {
+        "email": "sashangh.dr@students.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/in/sashangh-dhinesh-raj-6b0184390",
+        "github": "https://github.com/drsashangh"
+      },
+      "funFact": "I love playing and watching Cricket."
+    },
+    {
+      "id": "ms-4",
+      "name": "Shrey Shah",
+      "photo": "/images/people/Shrey_Shah.jpg",
+      "photoPosition": "50% 50%",
+      "role": "MS Student",
+      "degree": "MS",
+      "program": "ECE",
+      "yearJoined": 2025,
+      "researchDomains": [
+        "Analog Circuit Design"
+      ],
+      "links": {
+        "email": "shrey.shah@research.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/in/shreyshah10?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+      }
+    },
+    {
+      "id": "ug-19",
+      "name": "Guna Hemanth",
+      "photo": "/images/people/Guna_Hemanth.jpg",
+      "photoPosition": "50% 50%",
+      "role": "Undergraduate Researcher",
+      "degree": "BTech/DD",
+      "program": "ECE",
+      "yearJoined": 2024,
+      "researchDomains": [
+        "Quantization"
+      ],
+      "links": {
+        "email": "haricharanhemanth.g@students.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/in/guna-hari-charan-hemanth/"
+      }
+    },
+    {
+      "id": "ms-5",
+      "name": "Akilan",
+      "photo": "/images/people/Akilan.jpg",
+      "photoPosition": "50% 50%",
+      "role": "MS Student",
+      "degree": "MS",
+      "program": null,
+      "yearJoined": 2024,
+      "researchDomains": [
+        "Photonic Computing",
+        "Neuromorphic Computing",
+        "In-Memory Computing",
+        "Analog Circuit Design",
+        "VLSI",
+        "RF Systems"
+      ],
+      "links": {
+        "email": "akilan.m@research.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/in/akilan-m"
+      },
+      "funFact": "I work on photonic computing, but still paly football like my knees never got the memo."
+    },
+    {
+      "id": "ug-20",
+      "name": "R. Krs Kowshikh Reddy",
+      "photo": "/images/people/R_Krs_Kowshikh_Reddy.jpg",
+      "photoPosition": "50% 50%",
+      "role": "Undergraduate Researcher",
+      "degree": "BTech/DD",
+      "program": "ECE",
+      "yearJoined": 2024,
+      "researchDomains": [
+        "Quantization",
+        "Efficient AI"
+      ],
+      "links": {
+        "email": "regalla.k@students.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/in/regalla-krs-kowshikh-reddy-1a9459347/"
+      }
+    },
+    {
+      "id": "ug-21",
+      "name": "Het Asit Selarka",
+      "photo": "/images/people/Het_Asit_Selarka.jpg",
+      "photoPosition": "50% 50%",
+      "role": "Undergraduate Researcher",
+      "degree": "BTech/DD",
+      "program": "ECE",
+      "yearJoined": 2024,
+      "researchDomains": [
+        "Neuromorphic Computing",
+        "Edge AI",
+        "GPU Computing",
+        "Gaussian Splatting"
+      ],
+      "links": {
+        "email": "het.selarka@students.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/in/het-selarka-5a5561321/",
+        "github": "https://github.com/BMIrocks"
+      },
+      "funFact": "I love playing all kinds of sports, and I\u2019m equally happy watching a good movie or getting lost in a book :)"
+    },
+    {
+      "id": "ug-22",
+      "name": "Bejaine",
+      "photo": "/images/people/Bejaine.png",
+      "photoPosition": "50% 50%",
+      "role": "Undergraduate Researcher",
+      "degree": "BTech/DD",
+      "program": "ECE",
+      "yearJoined": 2024,
+      "researchDomains": [
+        "Hardware for AI"
+      ],
+      "links": {
+        "email": "bejaine.birju@students.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/in/bejaine-birju/"
+      },
+      "funFact": "I love trying out new stuff!"
+    },
+    {
+      "id": "ug-23",
+      "name": "Himangi Sahoo",
+      "photo": "/images/people/Himangi_Sahoo.jpg",
+      "photoPosition": "50% 50%",
+      "role": "Undergraduate Researcher",
+      "degree": "BTech/DD",
+      "program": "ECD",
+      "yearJoined": 2024,
+      "researchDomains": [
+        "Quantization",
+        "Hardware Accelerators"
+      ],
+      "links": {
+        "email": "himangi.sahoo@research.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/in/himangi-sahoo",
+        "github": "https://github.com/H1mang1"
+      }
+    },
+    {
+      "id": "ms-6",
+      "name": "Katakamsetty Phalgun",
+      "photo": "/images/people/katakamsetty_phalgun.jpg",
+      "photoPosition": "50% 50%",
+      "role": "MS Student",
+      "degree": "MS",
+      "program": "ECE",
+      "yearJoined": 2026,
+      "researchDomains": [
+        "Hardware Accelerators"
+      ],
+      "links": {
+        "email": "phalgun.katakamsetty@research.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/in/phalgun-katakamsetty-a27997205/"
+      },
+      "funFact": "I Like to capturing perfect frames of my imperfect life"
+    },
+    {
+      "id": "ug-24",
+      "name": "Gauri Krishnan",
+      "photo": "/images/people/Gauri_Krishnan.jpg",
+      "photoPosition": "50% 50%",
+      "role": "Undergraduate Researcher",
+      "degree": "BTech/DD",
+      "program": "ECE",
+      "yearJoined": 2024,
+      "researchDomains": [
+        "In-Memory Computing"
+      ],
+      "links": {
+        "email": "gauri.krishnan@students.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/in/gauri-krishnan-479246343",
+        "github": "https://github.com/GauriK58"
+      }
+    },
+    {
+      "id": "phd-2",
+      "name": "Sujith Kumar N",
+      "photo": "/images/people/Sujith_Kumar_N.jpg",
+      "photoPosition": "50% 50%",
+      "role": "PhD Student",
+      "degree": "PhD",
+      "program": "ECE",
+      "yearJoined": 2025,
+      "researchDomains": [
+        "Edge AI",
+        "Computer Architecture",
+        "Hardware Accelerators"
+      ],
+      "links": {
+        "email": "suijth.nadendla@research.iiit.ac.in",
+        "linkedin": "https://linkedin.com/in/sujith-kumar-nadendla/",
+        "github": "https://github.com/sujithiiith-byte"
+      }
+    },
+    {
+      "id": "ug-25",
+      "name": "Samyak Soni",
+      "photo": "/images/people/Samyak_Soni.png",
+      "photoPosition": "50% 50%",
+      "role": "Undergraduate Researcher",
+      "degree": "BTech/DD",
+      "program": "ECD",
+      "yearJoined": 2024,
+      "researchDomains": [
+        "Quantization",
+        "Neural Operators",
+        "SciML"
+      ],
+      "links": {
+        "email": "samyak.soni@research.iiit.ac.in",
+        "linkedin": "https://linkedin.com/in/samyak100",
+        "github": "https://github.com/rohday"
+      }
+    },
+    {
+      "id": "ug-26",
+      "name": "Sanjith Ganapathi",
+      "photo": "/images/people/Sanjith_Ganapathi.jpg",
+      "photoPosition": "50% 50%",
+      "role": "Undergraduate Researcher",
+      "degree": "BTech/DD",
+      "program": "CSE",
+      "yearJoined": 2024,
+      "researchDomains": [
+        "VLMs",
+        "In-Context Learning",
+        "KV Cache Optimizations"
+      ],
+      "links": {
+        "email": "sanjith.ganapathi@students.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/in/ sanjith-ganapathi",
+        "github": "https://github.com/SanjithGanapathi"
       }
     }
   ],

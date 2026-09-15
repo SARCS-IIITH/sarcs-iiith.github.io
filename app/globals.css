@@ -238,6 +238,40 @@ a:hover {
   gap: clamp(1.5rem, 3vw, 2.5rem);
 }
 
+.flip-card {
+  perspective: 1200px;
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.5s;
+  transform-style: preserve-3d;
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front,
+.flip-card-back {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+}
+
+.flip-card-back {
+  transform: rotateY(180deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 1rem;
+  background: var(--substrate-hi);
+  border: 1px solid var(--hairline);
+}
+
 .pub-strip {
   grid-template-columns: auto 1fr auto;
   gap: 1.5rem;
