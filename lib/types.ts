@@ -20,6 +20,7 @@ export interface Member {
   id: string;
   name: string;
   photo: string;
+  photoFit?: "cover" | "contain"; // default cover
   photoPosition: string; // CSS object-position value, e.g. "50% 40%"
   role: string;          // Display label: "PhD Student", "MS Student", etc.
   degree: string;        // Filter category: "PhD" | "MS" | "BTech/DD" | "Faculty"

@@ -157,7 +157,7 @@ export default function PersonCard({
               src={imgSrc}
               alt={m.name}
               fill
-              style={{ objectFit: "cover", objectPosition: m.photoPosition }}
+              style={{ objectFit: m.photoFit ?? "cover", objectPosition: m.photoPosition }}
               sizes="(max-width: 640px) 50vw, 260px"
               onError={() => setImgSrc("/images/people/placeholder.svg")}
             />
