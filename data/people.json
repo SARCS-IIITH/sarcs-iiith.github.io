@@ -137,7 +137,7 @@
         "linkedin": "https://www.linkedin.com/in/siddarth-gottumukkula-741b23285/",
         "github": "https://github.com/IamSid44"
       },
-      "funFact": "I\u2019m a big F1 enthusiast + big tech and current events nerd"
+      "funFact": "I’m a big F1 enthusiast + big tech and current events nerd"
     },
     {
       "id": "ug-2",
@@ -290,7 +290,7 @@
         "linkedin": "https://www.linkedin.com/in/sashwat-balaji-17881b346/",
         "github": "https://github.com/sashu2006"
       },
-      "funFact": "I\u2019m always looking for the next song/movie/book that will completely consume me for a week."
+      "funFact": "I’m always looking for the next song/movie/book that will completely consume me for a week."
     },
     {
       "id": "ug-11",
@@ -550,7 +550,7 @@
         "linkedin": "https://www.linkedin.com/in/het-selarka-5a5561321/",
         "github": "https://github.com/BMIrocks"
       },
-      "funFact": "I love playing all kinds of sports, and I\u2019m equally happy watching a good movie or getting lost in a book :)"
+      "funFact": "I love playing all kinds of sports, and I’m equally happy watching a good movie or getting lost in a book :)"
     },
     {
       "id": "ug-22",
@@ -684,6 +684,27 @@
         "linkedin": "https://www.linkedin.com/in/ sanjith-ganapathi",
         "github": "https://github.com/SanjithGanapathi"
       }
+    },
+    {
+      "id": "ug-27",
+      "name": "Gaurav Reddy Yerreddi",
+      "photo": "/images/people/Gaurav_Reddy_Yerreddi.png",
+      "photoPosition": "50% 30%",
+      "role": "Undergraduate Researcher",
+      "degree": "BTech/DD",
+      "program": "ECE",
+      "yearJoined": 2024,
+      "researchDomains": [
+        "Hardware Security",
+        "Cryptographic Hardware",
+        "Edge AI Acceleration"
+      ],
+      "links": {
+        "email": "gauravreddy.yerreddi@research.iiit.ac.in",
+        "linkedin": "https://www.linkedin.com/in/gaurav-reddy-yerreddi-48216a255",
+        "github": "https://github.com/gauravv-13"
+      },
+      "funFact": "I love watching and playing football and cricket, and I'm a huge car enthusiast."
     }
   ],
   "alumni": []
